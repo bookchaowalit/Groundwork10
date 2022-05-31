@@ -1,0 +1,42 @@
+body{
+    background-color: #202020;
+    color: white;
+    font-family: Space Grotesk;
+
+}
+
+ul{
+    list-style-type: none;
+    background-color: #202020;
+    padding: 10px 0px;
+    text-align: right;
+}
+
+.navbar{
+    font-size: 14px;
+    display: inline;
+}
+
+a{
+    color: white;
+}
+
+
+.Wedo{
+    font-size: 96px;
+    text-align: center;
+    padding-bottom: 100px;
+}
+
+.Wedo-description{
+    font-size: 18px;
+    text-align: center;
+    padding-bottom: 200px;
+    width: 200px;
+    line-height: 18px;
+    margin: auto;
+}
+
+iframe{
+    width: 100%;
+}
