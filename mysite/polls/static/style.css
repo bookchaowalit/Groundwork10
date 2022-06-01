@@ -5,30 +5,30 @@ body{
 
 }
 
-ul{
+.navbar__list{
     list-style-type: none;
     background-color: #202020;
     padding: 10px 0px;
     text-align: right;
 }
-
 .navbar{
     font-size: 14px;
     display: inline;
 }
+
 
 a{
     color: white;
 }
 
 
-.Wedo{
+.wedo__title{
     font-size: 96px;
     text-align: center;
     padding-bottom: 100px;
 }
 
-.Wedo-description{
+.wedo__description{
     font-size: 18px;
     text-align: center;
     padding-bottom: 200px;
@@ -39,4 +39,40 @@ a{
 
 iframe{
     width: 100%;
+}
+
+.section__sticky{
+    font-size: 64px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.section-secondary__sticky{
+    font-size: 64px;
+    text-align: center;
+    margin-bottom: 117px;
+}
+.column__left{
+    float: left;
+    width: 50%;
+    margin: 200px 0px;
+}
+
+
+.img__left{
+    padding-left: 304px;
+}
+
+.content__title__right{
+    font-size:32px;
+}
+
+.row{
+    margin: 150px 0px;
+}
+
+.column__right{
+    float: left;
+    width: 50%;
+    padding-left: 304px;
 }
